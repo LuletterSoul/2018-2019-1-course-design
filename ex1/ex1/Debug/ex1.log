@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ex1.cpp
+d:\github\2018-2019-1-course-design\ex1\ex1\ex1\ex1.cpp(21): warning C4101: “i”: 未引用的局部变量
+  ex1.vcxproj -> D:\GitHub\2018-2019-1-course-design\ex1\ex1\Debug\ex1.exe
